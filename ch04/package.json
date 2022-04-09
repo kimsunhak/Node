@@ -11,7 +11,7 @@
   "dependencies": {
     "date-utils": "^1.2.21",
     "fs": "0.0.1-security",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "winston": "^3.2.1",
     "winston-daily-rotate-file": "^3.9.0"
   }
